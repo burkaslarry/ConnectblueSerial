@@ -1,3 +1,11 @@
+
+Just buy me a drink and I could do this all day !
+======================
+
+http://paypal.me/larryburkas
+
+
+
 # Bluetooth Serial Plugin for PhoneGap
 
 This plugin enables serial communication over BT 4.0 LE on iOS talking to serial devices connected to a ConnectBlue OLP421 serial to bluetooth device in low power mode
